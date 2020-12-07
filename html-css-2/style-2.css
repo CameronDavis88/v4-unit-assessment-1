@@ -1,0 +1,153 @@
+header {
+    background-color: aquamarine;
+    box-sizing: border-box;
+    width: 100%;
+    height: 15vh;
+    
+}
+h1 {
+    box-sizing: border-box;
+    margin: 20px;
+    text-align: left;
+}
+
+#section header {
+    box-sizing: border-box;
+width: 100%;
+height: 3vh;
+margin: 0px, 15px;
+}
+
+section {
+    box-sizing: border-box;
+    border: dotted black;
+    width: 100%;
+    height: 40vh;
+    margin: 0px, 15px;
+    display: inline-flex;
+    
+}
+
+.box1 {
+    
+    border: solid red;
+    background-color:purple;
+    width: 30vh;
+    height: 15vh;
+    margin: 18vh 5vh 0vh 5vh;
+    
+
+}
+
+.box2 {
+    
+    border: solid black;
+    background-color: blue;
+    width: 15vh;
+    height: 15vh;
+    margin: 18vh 5vh 0vh 0vh;
+    border-radius: .3px;
+    box-shadow: 2vh;
+}
+.box3 {
+    
+    border: solid black;
+    background-color: palevioletred;
+    width: 30vh;
+    height: 30vh;
+    margin: 3vh 0vh 0vh 0vh;
+    border-radius: .3px;
+}
+#main header {
+    width: 100%;
+    height: 3vh;
+    box-sizing: border-box;
+    margin: 0px, 15px;
+}
+
+main {
+    box-sizing: border-box;
+    border: dotted black;
+    width: 100%;
+    height: 70vh;
+    margin: 0px, 15px;
+    padding: 1vh 0vh 0vh 1vh;
+}
+#snowman {
+    box-sizing: border-box;
+    width: 50%;
+    height: 100%;
+    
+}
+
+#hishead {
+    
+    border: solid black;
+    border-radius: 50%;
+    width: 16vh;
+    height: 16vh;
+    margin: 0vh 0vh 0vh 4vh;
+}
+#hismiddle {
+    box-sizing: border-box;
+    border: solid black;
+    border-radius: 50%;
+    width: 23vh;
+    height: 23vh;
+    margin: 0vh 0vh 0vh 1.5vh;
+}
+#hisbottom {
+    box-sizing: border-box;
+    border: solid black;
+    border-radius: 50%;
+    width: 27vh;
+    height: 27vh;
+}
+
+#footer header {
+    width: 100%;
+    height: 3vh;
+    box-sizing: border-box;
+    margin: 0px, 15px;
+}
+footer {
+    box-sizing: border-box;
+    border: dotted black;
+    width: 100%;
+    height: 36vh;
+    margin: 0px, 15px;
+    padding: 2.5vh 2.5vh;
+}
+#outerbox {
+    box-sizing: border-box;
+    border: solid black;
+    background-color: bisque;
+    width: 30vh;
+    height: 30vh;
+    }
+    #outercircle {
+    box-sizing: border-box; 
+    border-radius: 50%;
+    width: 23vh;
+    height: 23vh;
+    background: green;
+    padding: 4vh 0vh 0vh 4vh;
+    
+    }
+
+    #innerbox {
+    box-sizing: border-box;
+    background-color: maroon;
+    width: 15vh;
+    height: 15vh;
+    display: center;
+    }
+
+    #innercircle {
+        box-sizing: border-box;
+        border-radius: 50%;
+        width: 12vh;
+        height: 12vh;
+        background-color: blue;
+
+    }

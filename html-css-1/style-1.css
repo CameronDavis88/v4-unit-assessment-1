@@ -1,0 +1,54 @@
+header {
+    box-sizing: border-box;
+background-color: rgb(233, 118, 137);
+margin: 0%;
+height: 15vh;
+width: 100%;
+
+}
+
+.buttons {
+    display: inline-block ;
+}
+
+
+
+main{
+    border:dotted black;
+    box-sizing:border-box;
+    margin: 5px;
+height: 35vh;
+width: 100%;
+padding: 15px;
+
+
+}
+p {
+    font-size: 17px;
+
+}
+
+.HTML-image {
+    box-sizing: border-box;
+    height:20vh;
+        width:10vw;
+        float: left;
+}
+
+
+section {
+    border:dotted black;
+    box-sizing:border-box;
+    margin: 5px;
+    padding: 15px;
+    
+height: 50vh;
+width: 100%;
+    }
+    .CSS-image {
+        box-sizing: border-box;
+        height:20vh;
+        width:10vw;
+       float: right
+    }
+    
